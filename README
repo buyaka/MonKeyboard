@@ -1,1 +1,14 @@
-Энэхүү гарын загварыг МacOSX үйлдлийн системд дээр ашиглах зорилгоор үүсгэлээ
+Энэхүү гарын загварыг МacOSX үйлдлийн системд дээр ашиглах зорилгоор үүсгэлээ.
+
+Суулгах заавар:
+
+Алхам 1:
+ Mongolian.keylayout
+ Mongolian.icns 
+ гэсэн 2 файлыг "/Library/Keyboard Layouts" байрлалд хуулна
+
+Алхам2:
+ System Preferences > Language & Text > Input Sources байрлалд очно 
+ Select input methods to use. хэсгээс Mongolian гэсэн сонголтыг сонгоно.
+
+Ингээд бид Монголоороо бичих боломжтой болно.
