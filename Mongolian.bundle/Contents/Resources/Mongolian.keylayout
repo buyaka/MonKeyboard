@@ -1,8 +1,6 @@
 <?XML version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Created by Ukelele version 2.2.4 on 2013-03-25 at 14:07 (JST)-->
-<!---->
-<!--Last edited by Ukelele version 2.2.4 on 2013-04-02 at 18:18 (JST)-->
+<!--Created by Buyant-Orgil.E-->
 <keyboard group="126" id="-29593" name="Mongolian" maxout="1">
     <layouts>
         <layout first="0" last="17" modifiers="Modifiers" mapSet="ANSI"/>
